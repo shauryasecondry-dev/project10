@@ -1,2 +1,2 @@
 # project10
-this is a demo repository
+this is a demo repository.gi
